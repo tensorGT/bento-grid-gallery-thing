@@ -29,3 +29,14 @@ body {
   color: #c2410c;
   margin-bottom: 8px;
 }
+
+.top-banner h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.75rem, 1.3rem + 2vw, 2.75rem);
+  line-height: 1.15;
+  margin-bottom: 10px;
+}
+
+.lead {
+  color: #52525b;
+  max-width: 620px;
