@@ -40,3 +40,13 @@ body {
 .lead {
   color: #52525b;
   max-width: 620px;
+}
+
+code {
+  background-color: #e4e4e7;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* bento grid */
