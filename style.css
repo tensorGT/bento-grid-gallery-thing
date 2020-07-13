@@ -50,3 +50,14 @@ code {
 }
 
 /* bento grid */
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-auto-flow: dense;
+  gap: 18px;
+  padding-bottom: 56px;
+}
+
+.bento-card {
+  background-color: #ffffff;
+  border: 1px solid #e4e4e7;
