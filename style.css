@@ -82,3 +82,13 @@ code {
 
 .card-link:focus-visible {
   outline: 3px solid #ea580c;
+  outline-offset: -3px;
+}
+
+.span-2-col {
+  grid-column: span 2;
+}
+
+.span-2-row {
+  grid-row: span 2;
+}
