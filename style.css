@@ -92,3 +92,14 @@ code {
 .span-2-row {
   grid-row: span 2;
 }
+
+/* aspect-ratio media containers + object-fit */
+.media-box {
+  width: 100%;
+  overflow: hidden;
+  background-color: #e4e4e7;
+}
+
+.ratio-16-9 {
+  aspect-ratio: 16 / 9;
+}
