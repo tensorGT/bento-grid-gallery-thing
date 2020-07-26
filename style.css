@@ -134,3 +134,14 @@ code {
   flex-direction: column;
   gap: 8px;
 }
+
+.tag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #c2410c;
+}
+
+.card-body h2 {
+  font-family: 'Space Grotesk', sans-serif;
