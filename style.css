@@ -145,3 +145,13 @@ code {
 
 .card-body h2 {
   font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.25;
+}
+
+.card-body p {
+  font-size: 0.9rem;
+  color: #52525b;
+}
+
+/* dark and accent card variants */
