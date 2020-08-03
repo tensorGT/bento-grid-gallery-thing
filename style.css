@@ -187,3 +187,13 @@ code {
   border-top: 1px solid #e4e4e7;
   text-align: center;
   padding: 24px 20px;
+  font-size: 0.85rem;
+  color: #71717a;
+}
+
+/* tablet */
+@media (max-width: 960px) {
+  .bento-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
